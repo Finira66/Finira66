@@ -1,5 +1,11 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611d259368a108bcdc611c94385b6f063232ca70067&rid=giphy.gif&ct=g" width="300"/>
+  
+  <div id="badges">
+    <a href="https://t.me/Finira">
+      <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
+    </a>
+  </div>
 </div>
 
 <h1 align="center">Hi 👋, I'm Victoria</h1>
