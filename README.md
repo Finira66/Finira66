@@ -55,4 +55,6 @@
 
 ---
 
-✨ _“Clean code, clean design, clean mind.”_ ✨
+<div align="center">
+  <i>✨ “Clean code, clean design, clean mind.” ✨</i>
+</div>
